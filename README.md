@@ -1,4 +1,4 @@
-# Captcha Genrator 
+# Captcha Generator 
 A simple image captcha genrator
 
 ### Prerequisites
